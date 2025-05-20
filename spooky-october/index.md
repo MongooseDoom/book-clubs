@@ -11,5 +11,5 @@ Read a horror book! We take suggestions and then vote in a single elimination br
 
 ## Archive
 
--[2023](2023.md)
--[2024](2024.md)
+- [2023](2023.md)
+- [2024](2024.md)
